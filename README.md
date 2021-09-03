@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in coding and devOps
-- 🌱 I’m currently learning AWS services
+- 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on any AWS project
 
 
